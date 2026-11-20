@@ -1,6 +1,5 @@
 # E-Commerce-Customer-Churn-Analysis-Using-MySQL
 MySQL e-commerce customer churn analysis covering data cleaning, missing-value imputation, outlier removal, feature transformation, exploratory queries, distance segmentation, and return joins to identify churn drivers.
-# E-Commerce Customer Churn Analysis Using MySQL
 
 ## Project Overview
 This project analyzes customer behavior, purchase patterns, service complaints, and return records for an e-commerce platform using MySQL. The workflow covers raw data ingestion, missing-value imputation, outlier removal, category standardization, feature transformation, exploratory SQL querying, and relational joins with product return data to identify drivers of customer churn[cite: 4, 5, 6, 7, 8, 9, 10, 11].
